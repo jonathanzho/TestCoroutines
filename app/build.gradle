@@ -9,7 +9,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "me.amitshekhar.learn.kotlin.coroutines"
+        applicationId "com.example.jonathan.kotlin.coroutines"
         minSdk 21
         targetSdk 33
         versionCode 1
